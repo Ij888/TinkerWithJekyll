@@ -1,4 +1,4 @@
-Ij888.github.io
-===============
+TinkerWithJekyll
+================
 
-My github hosted page where code snippets are lovingly abused, butchered, wrecked then happily restored to something better than their former self.
+A repo where code snippets are lovingly abused, butchered, wrecked then happily restored to something better than their former self.
