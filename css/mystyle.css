@@ -15,8 +15,11 @@ li{display: inline; }
 /** other styles **/
 body{background-color: #000; color: #fff; font-family: "Inconsolata", arial ;}
 
-div{height: 50%;  margin: auto;  position: absolute;
-  top: 0; left: 0; bottom: 0; right: 0; text-align:center;}
+div{height: 50%;  
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0; 
+	text-align:center;}
 
 a{text-decoration:none; color:#000; font-family: arial ; font-weight: bold;}
 
@@ -24,9 +27,7 @@ a{text-decoration:none; color:#000; font-family: arial ; font-weight: bold;}
 
 .finally{}
 
-
 /*main.html*/
-
 .main_body{background-color: #fff; color: #999; font-family: "Inconsolata", arial ;}
 
 div{}
